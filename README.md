@@ -8,6 +8,9 @@ Turn your Windows machine into a **powerful local web server** with an all-in-on
 > MX Server is a Free Windows local server environment that can be
 > installed under with just a few clicks.
 
+<img width="604" height="288" alt="Image_2025-10-07_18-56-59" src="https://github.com/user-attachments/assets/0a1af650-ad72-4417-8fca-fec1b78513b5" />
+
+
 ### MX Server Features
 
 -   **Integrated Web Server (Apache)** – Run and test your websites locally with ease.
